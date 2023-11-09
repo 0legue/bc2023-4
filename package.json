@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mykyta07/bc2023-4.git"
+    "url": "git+https://github.com/0legue/bc2023-4.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mykyta07/bc2023-4/issues"
+    "url": "https://github.com/0legue/bc2023-4/issues"
   },
-  "homepage": "https://github.com/mykyta07/bc2023-4#readme",
+  "homepage": "https://github.com/0legue/bc2023-4#readme",
   "dependencies": {
     "fast-xml-parser": "^4.3.2"
   },
